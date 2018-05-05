@@ -1,0 +1,7 @@
+1、数据抽样（random_to_test.py）
+将数据集分成canjian_trainval(0.8),canjian_test(0.2)两个数据集
+
+2、制作batch（input_trainval.py）
+  标签： hege：0  bie：1  huang：2  ji：3  shuang：4
+
+3、制作卷积、池化等操作的函数（model_function.py）
